@@ -1,0 +1,374 @@
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T052231.200.json
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T051914.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T045425.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T042339.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T042150.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T041937.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T040532.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T040504.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T040232.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T040110.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T035924.500.html
+
+###
+
+GET http://localhost:8080/movie/1?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T035818.500.html
+
+###
+
+GET http://localhost:8080/movie/{id}?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T025304.200.json
+
+###
+
+PUT http://localhost:8080/get?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T025259.500.html
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T025252.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T024932.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T024858.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T024753.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-24T024044.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-23T040442.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-23T030827.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-23T030807.200.json
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T053221.200.json
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T052918.500.html
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T052605.500.html
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T052244.500.html
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T052108.500.html
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+PUT http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+PUT http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T051912.500.html
+
+###
+
+PUT http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T051904.500.html
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T051844.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T034204.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T033845.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T032840.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T032720.200.json
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=basdasdlockerssadasdas&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T032710.200.json
+
+###
+
+GET http://localhost:8080/get?site=rottentomatoes&movie=blockers&jobId=15&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T032634.200.json
+
+###
+
+PUT http://localhost:8080/put?site=rottentomatoes&movie=blockers&jobId=14&limit=10&offset=0
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-05-22T032530.200.json
+
+###
+

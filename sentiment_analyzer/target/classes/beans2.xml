@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean name="htmlReviewParser" class="ua.rassokha.service.rottentomatoes.HTMLReviewParserImpl" scope="prototype">
+        <property value="ua.rassokha.service.rottentomatoes.SentiWordNetAnalyserImpl" />
+    </bean>
+    <bean name="htmlReviewReader" class="ua.rassokha.service.rottentomatoes.HtmlReviewReaderRottenTomatoes" scope="prototype"/>
+    <bean name="hSentiWordNetAnalyser" class="ua.rassokha.service.rottentomatoes.SentiWordNetAnalyserImpl" scope="prototype"/>
+</beans>

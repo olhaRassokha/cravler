@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean name="ua.rassokha.ua.rassokha.service.HTMLReviewParser" class="ua.rassokha.ua.rassokha.service.rottentomatoes.HTMLReviewParserImpl" scope="prototype"/>
+    <bean name="ua.rassokha.ua.rassokha.service.HtmlReviewReader" class="ua.rassokha.ua.rassokha.service.rottentomatoes.HtmlReviewReaderRottenTomatoes" scope="prototype"/>
+</beans>

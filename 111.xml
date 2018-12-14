@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phonebook>
+    <person>
+        <name>Остап Бендер</name>
+        <email>ostap@12.com</email>
+        <phone>999-987-6543</phone>
+    </person>
+    <person>
+        <name>Киса Воробьянинов</name>
+        <email>kisa@12.com</email>
+        <phone>999-986-5432</phone>
+    </person>
+    <person>
+        <name>Мадам Грицацуева</name>
+        <email>madam@12.com</email>
+        <phone>999-985-4321</phone>
+    </person>
+</phonebook>

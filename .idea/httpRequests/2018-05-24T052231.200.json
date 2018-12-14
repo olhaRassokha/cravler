@@ -1,0 +1,1303 @@
+{
+  "duration": "PG-13,2 hr. 36 min.",
+  "job": 1,
+  "name": "Avengers: Infinity War",
+  "reviews": [
+    {
+      "reviewText": "Ten years ago this month, the Marvel universe was launched with the fresh, lively, relatively easygoing \"Iron Man.\" It seems more like 100.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "At times it feels like the Fellowship of the Infinity Stones.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "...an epic romp across the breadth if the Marvel Cinematic Universe with all the action, comedy, pageantry, and sturm und drangyou could hope for.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "... Unafraid, even eager to take the story and characters in dark, surprising new directions.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Trust me -- if you've enjoyed any aspect of the last 10 years in the Marvel Cinematic Universe, Infinity War will have something for you, and a lot of that is down to how it manages its stable of superheroes.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Maybe \"Deadpool 2\" will be better...",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Never boring, visually impressive, but ultimately rather depressing and unsatisfying, Infinity War will leave you wanting more. But not necessarily in the best way.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It should never have been this good.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The Marvel Cinematic Universe's newest entry is its biggest, most ambitious piece of storytelling in the studio's 10 years of existence and the minute you exit the theatre, you'll be lining up at the box office to buy another ticket. It's that good.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War succeeds in eliciting the emotional responses that Marvel has worked on building up over the last ten years.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It took us 19 movies over a span of 11 years to finally reach this destination. The end result? \"Infinity War\" is just too much of everything.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "A deeply satisfying tale of pathos and wit that manages to credibly link dozens of characters, multiple narrative threads and innumerable arguments, stretching from the first Iron Man a decade ago to Black Panther mere weeks ago.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Just when it looks as if all hope is smothered under the heavy weight of fan expectations [and] a reported $300 million budget, it comes roaring to life with a wake-'em-up battle on the fields of Wakanda and a quietly spectacular, sobering ending.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Buckle up, folks, because this is the movie Marvel has been building toward for a decade, and it's astonishing.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "A culmination without being a finale, Avengers: Infinity War is an impressive achievement in blockbuster movie-making. But there's no denying that, expectation-wise, the MCU is starting to look a little bit like a victim of its own success.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This movie completely, utterly, belongs to Josh Brolin's warmongering villain Thanos.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Marvel has set an amazing stage for Avengers: Infinity War, and my only real question walking into the theater was, \"How can they possibly bring all of this together in a way that works as an actual movie?\" You'll be shocked how well they pull it off.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "All the past decade's Marvel movies have been heading toward this showdown. Turns out the payoff was worth the wait.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's too much. Too many characters, too much action, too much everything. It's a superhero surplus with too many heroes and not enough screen. It's Infinity overload.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "If only the film were better modulated, or perhaps longer, or more elegantly shaped, or ... well, it's hard to say exactly what's wrong here.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The cliffhanger climax of Infinity War left the audience at my screening in a state that I can only describe with the most tired of critical clich?s: They were stunned.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Not even the threat of universal annihilation, it seems, will keep this assembly line from chugging ahead with its signature polished, mechanized efficiency.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "There's no pacing in Avengers: Infinity War. It's all sensation and no pulse. Everything is big, all of the time.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Even as the movie forces audiences to submit to so many cataclysmic events, the directors manage to direct the cascading mayhem to a unique kind of cliffhanger.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The one over-riding joy that continually propels Infinity War to better things stems from watching the movie come alive as so many disparate elements react to one another.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "What lies beyond it, I'm sure we'll know soon enough. For now, I'm enjoying Marvel's version of denouement-excessive and inevitable.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Marvel's Avengers: Infinity War -- an overstuffed sausage of summer entertainment -- is the Ocean's Thirteen of spandexed heroism, if you can imagine a version of that movie with two times as many Brad Pitts and no poker dealers.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "You shouldn't be able to care about that many people at once. And yet, Avengers: Infinity War more than pulls it off.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War, by design, feels like one half of a completed puzzle, with the other pieces strewn about waiting to be put together.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Welcome to the ultimate superhero extravaganza.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "If you've been solidly along for the Marvel ride up to this point, you'll enjoy this leg of the journey even if it hasn't yet reached the terminal.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Overall, however, Infinity War lands the vast majority of the emotional beats it's reaching for, which is why we're here anyway.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Making good on Nick Fury's promise from 10 years ago, Infinity War is fun, thrilling, and emotional.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "You're gonna want to watch the next one the second this one ends. The final minutes proves just how good Marvel has been at building this universe over the past decade. [Full Review in Spanish]",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "An exhilarating and heart-aching cinematic event.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A movie that mostly gets it right - and isn't afraid to go for truly dramatic moments, or remind us that even superheroes can be mortal.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The It's a Mad,Mad,Mad,Mad World of superhero movies It happens to be both an all-star cast and an all-star roster of superheroes,since the superheroes are what made most of the actors A-list stars.We get to see all these stars put on a big show for us.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Marvel has pulled off all sorts of cinematic flavors in its 10-year legacy, from heist films and political thrillers to space operas and fantasy epics. Now it boasts a full-fledged Shakespearean tragedy.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "What saves Infinity War from being just another bloated supergroup tour - and what will end up being the thing that blows fans' minds to dust - is the film's final stretch.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The noisy, bloated spectacles of combat were surely the most expensive parts of the movie, but the money seems less like an imaginative tool than a substitute for genuine imagination.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The action is great and there is much good humor, but this is clearly the appetizer for next year's big finish.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's a unique, exceptional achievement that somehow leaves you both fully satisfied and desperate for more.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This story may be on its last legs, but as table-setting for an even bigger threat, Infinity War daringly leaves more questions in the air. The way this world ends looks to be not with a bang, but a whimper.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's just a supremely watchable film, utterly confident in its self-created malleable mythology. And confident also in the note of apocalyptic darkness. I know it's silly. And yet I can't help looking forward to the next supersized episode of mayhem.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "What \"Infinity War\" accomplishes, with surprising ease, is complete immersion in this elaborate world, reflecting how deft Marvel has been in assembling it.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War cares a bit too much about being \"Part 1\" and holding enough development for \"Part 2,\" but MCU fans should see their 10-year buildup expectations met - not exceeded, but met.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "For the first time in a while, I can't wait to see what happens next.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It pays off the emotional investment movie audiences have been making in these characters for years, sometimes in genuinely heart-wrenching ways.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This isn't just the biggest superhero movie ever, this is the biggest movie of all time...From the get-go you're thrown right in with no time to waste and not a second is - the two and half hours fly by.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War just might be the dorkiest movie ever made.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Marvel's triumph is not that we are loyal audiences, not even loyal fans. We are slaves.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "This is, ultimately, a jaw-dropping game-changer.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A textbook team-up movie.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A superhero-space-opera that will knock you off your feet and quite possibly bring a lump to your throat.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "If, for decades, the metaphor for propulsive blockbuster filmmaking was the \"ride,\" then watching \"Avengers: Infinity War\" is like going to a theme park and taking three spins on every ride there.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "If you're a fan of these characters and you're invested in their fates, there are plenty of thrills. But you better be really invested.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "I've been writing about Infinity War for the better part of a year, but I was not prepared for what it had in store. I stared at it slack-jawed for the last ten minutes, astonished at the places where Marvel took this film.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "With so many ingredients to stir into this overflowing pot, you have to hand it to the two experienced teams of Marvel collaborators who had a feel for how to pull this magnum opus off.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The symbiosis of good versus evil is the pillar of its existence and measures up to a deeply felt extravaganza for the superhero senses. In many aspects, this is a remarkable film and the best that the MCU has offered yet.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Rewarding and audacious in ways the franchise has never been before and isn't likely to be again. It's a movie that is not screwing around.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "L'apoth?ose de 10 ans de Marvel Cinematic Universe - ou du moins, la premi?re partie. [Full review in French]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "After 10 years of investment in this series and these characters, boy does Infinity War knock the wind out of you. Humor, sky high stakes and a truly overwhelming amount of emotion.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Marvel lays it all on the table for their latest super nova'd blockbuster Avengers Infinity War and then ruthlessly wipes it off clean.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Throughout the film, rapidity of dialogue and drama is mistaken for actual rhythm, of which directors Anthony and Joe Russo have one mode: pedal-to-the-metal pandemonium.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The movie is packed with fun banter and set pieces, but it's not really about anything, and the ending falls flat.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War gets by with a witty first hour and the starry appeal of the cast, but the gears really grind near the finish.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Fans will likely find Infinity War satisfactory. As narrative filmmaking, however, it's a disaster: a bloated monstrosity that smothers to death its most intriguing aspects.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "All I know is that Marvel has lived up to its reputation for daring its filmmakers to break boundaries, and trusting its audience to go along for the ride. I don't think fans will be disappointed.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Maybe the quips and the punch-ups are there because they have to be, what with the film's steady parade of failure and even death. Plans fail. Character fails. Even sacrifices fail. It's not exactly refreshing, but it is bracing, and even gratifying.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War is everything you wanted and more - it's the end of the beginning of the end, an ambitious spectacle that confidently juggles character moments between the most epic action Marvel has ever attempted.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Thankfully, this $300 million entry into the Marvel comic-book movie universe is one of the better films pumped out by Marvel Studios and certainly makes up for the tornado of dung that was Avengers: Age of Ultron.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "A totally different beast: darker, riskier, and more brutal. [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A disenchanting rain of colors that spans 150 minutes that will continue for years to come. [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Ten years of Marvel superheroism culminates in a battle for the universe itself. Exhausting, bitterly humorous, and gripped in a stunning finality, it's almost too much to take in, yet somehow not enough.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The outcome satisfyingly tops the trip and resonates long after you leave the theater. [Full Review in Spanish]",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Because so much is purposefully unresolved and so little is actually decided, I just can't say I enjoyed watching Infinity War all that much.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "I had a lot of fun with the action and amusing banter and did not mind being inundated with CGI or the 2+ hour run time.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "While these films have been flooding the market, you've got to hand it to uber-producer Kevin Feige whose grand design comes into sharper and sharper focus.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "If you thought Marvel was flagging after ten years of relentless action, Infinity War Part 1 suggests they haven't even got started.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's a rollercoaster ride that leaves you breathless, invested and eventually panting for more. Marvel's Cinematic Universe really is something to savour and hold up as special.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's a long but slight, expansive but restricted, and busy but straightforward contradiction of a movie.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The fact is that in Infinity War... everyone has their moment and meshes perfectly with the whole. [Full review in Spanish]",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It's stunning to realize that their attempts to do so are the most emotionally affecting things in the whole of the perfectly-named Infinity War: people valiantly, desperately trying to evoke humanity in the midst of a machine that makes that impossible.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The Russos, while tipping their hat to these individual filmmakers who put their unique stamp on each of their own films, elevate their own art and skilfully weave a story that seems cohesive and resonant, physically and emotionally.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Shockingly short on memorable images, with most scenes composed in the banal shot-reverse-shot coverage familiar from episodic television.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War succeeds in sweeping you into a grand adventure and reminding you why you love these characters, but it doesn't solve the narrative problems that haunt Marvel.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "'Infinity War' isn't a life-altering experience that changes the language of film, but it is an ass-kicking popcorn superhero flick that delivers the spectacle fans have waited years for.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "If a movie can be defined by the strength of its villain, Avengers Infinity War is a giant. Towering over the spectacle is Josh Brolin's evil despot Thanos, whose striking capture motion performance and physicality comes close to stealing the film.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A minor improvement over Avengers: Age of Ultron...",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "[The Russos] have succeeded... [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "An impossibly coherent, soulful take on an entire galaxy's worth of superheroes.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is 'Avengers: Disassemble', a dark but deliberate film that, despite some flaws, is easily the best group flick that Marvel has yet produced.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The directing duo of the Russo brothers have proven time and again that they are wonderful weavers of character interaction, and they use that as their glue to hold this massive cinematic attempt together.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "My goodness this is fun.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "As a longtime detester of the MCU machine, I must admit that it brought me some joy.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Not only is it incomplete despite a running time of 149 minutes... but its action would be meaningless to anyone who hasn't seen a good many previous Marvel pictures.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It's as good as can be with an overcrowded character stew.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Everything that has been said about this film, perhaps this year's most anticipated movie, is true.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "In truth, Avengers: Infinity Wars works best as the first part of something much bigger... [Full Review in Spanish]",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The danger is real, the humor is spot on and the action is fantastic... [Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "For better or worse, Avengers: Infinity War is a blast.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The rebel Goonie grows up and brings on the Apocalypse.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Succeeds as a multi-layered, multi-character and emotionally resounding superhero opera.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The story is energetic enough to sustain so many big characters. And the Russo brothers do a decent job juggling them all.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It's an infinity all right. The definition of overkill.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "So much happens, getting bored is physically impossible. [Full Review in Spanish]",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Our superheroes are on the tightrope, but in the end, they are a group of extraordinary people who will fight the battle that we cannot fight. [Full review in Spanish]",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Some of the sequences are undeniably thrilling but, at about 2-1/2 hours, overkill sets in early.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The Avengers: Infinity War isn't just a gussied-up mediocrity being widely mistaken for a good movie. It's also, at least arguably, a dangerous movie for anyone who cares about the future of American cinema.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This jumping backwards and forwards from too many plot threads sometimes dissipates the tension and over-complicates everything. Fortunately, the contractually-impossible cast is mostly in strong form.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's ironic that one of Marvel's darkest films is also one of its most fun, with the character banter and personality clashes that have made so many Marvel movies memorable in full abundance.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Whether the wit fizzes or flops, a Marvel movie will always live or die by its action set-pieces. And in this latest adventure, they are truly spectacular...",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "For a movie with dozens of superheroes battling in half a dozen war-torn worlds, Marvel's penultimate epic is remarkably orderly.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Intense violence, strong messages in shocking Marvel epic.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "On the surface Avengers: Infinity War feels like the usual winning formula. But as the film unfolds you realise it is a monumental undertaking, gradually emerging as the War And Peace of superhero movies.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Slightly above average for an MCU movie, though more of a triumph of continuity than of entertainment or filmmaking.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "There's just too much of this thing.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "What prevents Avengers: Infinity War from being as entertaining as some of its predecessors is that there aren't many small moments that make the explosions and CGI monsters more meaningful.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War feels about as emotionally empty as a child slamming action figures together.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Thanos is an idiot, but neither he nor the filmmakers know this.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War is almost unwieldy, but as always, the strength of this deep cast and their ability to balance serious stakes and snarky humor gets it right.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It lifts, inspires and stings in a raw way that studio blockbusters rarely manage.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Given that the plot motor is Thanos's worry that the universe is overpopulated, sly self-awareness is shown as the filmmakers embrace drastic solutions to the problems of braiding multiple franchises into one.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "An impressive feat simply because of the discipline and skill required to deliver so much in such a comparatively tight package.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "This chaotic but surprisingly nimble instalment, directed by Anthony and Joe Russo, brings together an eye-popping ensemble cast of A-listers (imagine the table read!) and pushes them into playful new configurations.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Thanos is given tremendous emotional depth and development but the rest of the vast superhero pantheon appear to have been given two hours of busy work.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "... witnessing the selfless struggle of it all unfolding has both the necessary epic feel of a summer blockbuster infused with all the heart fans have come to expect from Marvel - 'nuff said.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Never has the \"Marvel Cinematic Universe\" seemed like more of a universe, in ways both good and bad. Infinity War-the title is almost too apt-is far from a perfect movie, but it is probably close to the best movie it could have been.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "One has to treat the culmination of 10 years of Marvel movies as a season finale, or at least the first part of a season finale. It's not really a movie in its own right.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "If some pacing issues and the occasional bloat prevent it from quite reaching the upper echelons of the MCU, there's still more than enough here to keep viewers sated, saturated, and salivating over what's certain to be a poignant and potent Part Deux.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Feels more like several movies squished together like a cinematic panini. Still, it's easy to be swept along by Banner's Hulkus Interruptus condition that frustrates him mightily.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Nothing is solved as fighters on both sides die and that's the end of the story. ...So what's left?",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "While this is a massive comic-book spectacle, what's most amazing is how - after filing for Chapter 11 bankruptcy in 1996 - Marvel, led by Kevin Feige, now dominates the global box-office.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It is a massive spectacle full of fun character moments, impressive action sequences and a real sense of stakes.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This is an epic tale sheathed in spandex, a super heroic soap opera. The Russos know how to deliver the bang, but also when to lay back.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The film plays like an \"event book\" reads",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It's fine, but you wonder how they can expect you to care about an earth-shattering conclusion when the previous two hours (and 18 movies) were all about these magic stones that can undo anything.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This blockbuster leaves you wildly curious about the sequel, even if you are not an Avengers fanatic.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Has twists that keep you hooked and make you gasp. The MCU will never be the same again.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "As it is, everything feels like a bait and switch.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War isn't a perfect film, but it's probably exactly what it wants to be.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is probably the best, if not second best, movie in the MCU...this movie makes some bold, heavy choices.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "My default feeling throughout was numbness bordering on fatigue.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Thanks to Thanos, Infinity War is much more than a two-part blockbuster, and for the first time in a long time, we can't easily anticipate more of the same, because the road ahead for superheroes is murky, complicated, and terrifying.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is a wildly entertaining movie but one that leaves too many unanswered questions.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Enjoyable but empty, Avengers: Infinity War embodies the humdrum side of the MCU.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's freakishly big. It encompasses dozens of characters. It has a million moving parts. So the good news about Avengers is that this culmination of a 10-year story loop is relatively coherent.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "All-all-all, Infinity War is a film that surpasses most superhero films in terms of vision, scale, grandeur and execution.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Too long, too dark, too confusing - and it should state up front it is part one of a \"to be continued\" movie. The humor helps you endure the overrunning length.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "How does art land in the world? Genre filmmaking at its best provides topical spark, often beyond the will of its creators.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Everyone shows up in this film, there is not a single weak performance to speak of.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "As expected, Avengers: Infinity War has one of the most sensational and complicated group of action scenes in the MCU so far. This is, after all, the big fight.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "But that all goes to show that Infinity War is the kind of film that reels you in and you become emotionally invested. I'll definitely be watching again.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Clocking in at more than two-and-a-half hours, Infinity War never drags. Having multiple characters and storylines to cut back and forth between helps build a sense of pace.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The Russo Brothers have confectioned a film whose frenetic pacing can fatigue Marvel skeptics, but will cause joyous anxiety for loyal fans. [Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War is relentless action and entertainment, packed with super-heroes, super-heroines, superpowers and a super cliffhanger.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is a movie for hardcore fans... [Full review in Spanish]",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "After seeing Infinity War, I wasn't sure if I'd see it again but after thinking about it a bit longer, I do feel I could get more out of a second viewing.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "\"Avengers: Infinity War\" is a super movie - gigantic, but with an undeniable, powerful, humanity.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War is a treat, and a welcome addition to the now-decade-old Avengers series. Already, we can't wait for the next one.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Infinity War is an achievement unparalleled in movie history, the culmination of 10 years, 19 movies and comic book stories going back to 1941 when Captain America was originally created by Jack Kirby.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "[Infinity War] delivers on its promises without exceeding itself and also drops various surprises to various characters that we have seen grow throughout the last decade. [Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Despite its weak book end, \"Infinity War\" is a great adaptation and stellar crossover...",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Although I know that I disliked Avengers: Infinity War long before it arrived at its long-overdue climax, that sequence is the part that I disliked the most.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "There is plenty of time for huge superhero battles, though, and for the geek-out moments that fans will go crazy for.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Too many characters, too much plot, too much everything",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "\"Avengers: Infinity War\" is a thrilling, nearly overwhelming cinematic experience that serves as a satisfying culmination of all that's come before it.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Like any culmination of a long-running series, there's purpose and emotion as this blockbuster intertwines its many strands, provides a gripping payoff and paves - as always - another path forward.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "This is a big film with big implications for the series, and for that it should be praised.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War is entertaining and by no means a disappointment, but it's otherwise kind of empty.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War has trouble fitting in so many characters and giving them proper emotional moments as well as the fireworks in its 149 minute run time.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Almost 20 movies in, maybe someone should have realized that it wasn't going to be possible to continue topping the previous installments.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The conclusion of Infinity War is so shocking because it doesn't feel like a cliffhanger, more like a drastic wiping clean of the slate before the whole cycle starts again, with whatever reversal of fortune or comprehensive reboot it may be.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The title of this movie should be 'Avengers: Infinity War Part One,' because that is what it is. It is not a movie that stands on its own. It is a leaning monolith that would fall flat without 'Part Two' to lean against.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "An exhausting barrel roll of a narrative, functioning less as a complete story and more as a frenetic series finale.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "While the MCU still hasn't gotten the formula quite right for true villainy, they have certainly mastered the equation for entertaining banter & epic superhero moments.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "This is why I find the movie's belief that it's doing something experimental and unprecedented more than uncomfortable: Infinity War gambles dangerously with the way people process real deaths, never mind fictional ones.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "For a movie with a ridiculously unwieldy cast, Infinity War is surprisingly comprehensible and fun.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "\"Avengers: Infinity War\" is bold, bombastic, and likely to bum a lot of people out.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It all amounts to heaps of superhero, everything-and-the-kitchen-sink, asinine spectacle.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Avengers: Infinity War has taken all of the elements that have made past films in the Marvel Cinematic Universe work and given them a shot of steroids.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Avengers: Infinity Wars is clearly a superhero flick for everybody. At times this works, and at times its excessiveness works a little bit against itself.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War is a sobering reminder that even the biggest, strongest communities sometimes face adversity that results in sacrifice, uncertainty, and loss.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The movie deserves to be full of itself.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "How long are we going to have to start enduring jokes about -- or from -- the 80's? [Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Aside from a few frames of Thanos laboring on his feelings, there is no other commentary other than the idea of sacrifice. {Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A two-and-a-half-hour thrillride, with plenty of action, laughs and potential for tearing-up, directing duo Anthony and Joe Russo have done an amazing job of shoehorning Marvel's myriad of superheroes into a coherent tale.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The action is clear, entertaining and sufficiently varied. It holds on the tension constantly and the sense of urgency is never gone. [Full Review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A spectacular display of monotony.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War begins to close the portal to Marvel Studios' three phases in an extravagant fashion, combining the star power of several successful franchises to create an enviable ensemble",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Joe and Anthony Russo's film is like an over-egged birthday cake, edible in patches but spoilt by too many competing ingredients.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The film-making ambition is a joy to behold, the delivery impressive and, as for the spine-tingling ending, well it's close to genius.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's non stop, great fun and doesn't feel too long.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It may still move at hectic speed from one gargantuan punch-up to the next, but - under the direction of Joe and Anthony Russo - it's well paced for the sort of extravaganza it is. The all-star parade never becomes a pile-up.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Faced with such brilliant results, there is no alternative but to look forward to how the story will continue... [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The chemistry between Robert Downey Jr. and Benedict Cumberbatch is perfect... [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A bloated-yet-breezy blockbuster.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "All-in-all, Avengers: Infinity War is a pretty big success. It's rather incredible that these guys were able to cram so much into one epic-sized film and have it turn out this well.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "For fans, this is the pay-off you've been waiting for, which is saying something. It's the most epic MCU film to date.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "At stake, as ever, is the fate of the universe. Why must it always be the universe? What's wrong with the fate of Hackensack? Doesn't anyone care what happens to South Dakota, or Denmark, or Peru?",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The major concession is that the film's organic structure and its resistance to showcase one indestructible character adds much-needed spontaneity to Marvel Studios' ageing formula.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Avengers: Infinity War is more than just a great superhero movie. The emotional impact on the audience, the artistry, and the brilliant storytelling are so astonishingly good, that it is simply a great film. Period.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The movie equivalent of a theme park ride. Has highs, lows, excitement and an ending to make sure you wanna go on it again... after you've regained your breath. [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The insubstantiality of the film isn't due to the infinite yet flimsy malleability of C.G.I. gimmickry but, instead, to the dispersion of its drama throughout the many cinematic installations set in the Marvel Cinematic Universe.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "An adrenaline rush of a film laced with bombastic action, thrilling setpieces and a level of satisfaction that's the cumulation of a decade-long journey.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Only now could the MCU arrive at a place where bluffs can be irrefutably called and gauntlets, real or metaphorical, can be thrown down. With audacity and thoughtfulness, \"Infinity War\" upends the comparative breeziness of all that came before it.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's effective at being all the things it needs to be, even if that necessity is the thing that holds it back the most.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "\"Avengers: Infinity War\" is almost three hours of non-stop action on multiple battlefields leading to a conclusion that will forever change the Marvel cinematic universe.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This movie isn't actually about the Avengers. It's about Thanos.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "There is a fissure between critics and audiences, which I can admit. The movie is critic-proof. 'Avengers: Infinity War' is superhero porn, strictly for the fans, while 'Black Panther' was undeniably excellent, transcending the comic book fan base.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War is so gargantuan in scope, it almost becomes too much to digest. The smaller moments that have made the Marvel Cinematic Universe so enjoyable are lost in the spectacle.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The high doesn't last, but it's dizzying all the same.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "AVENGERS: INFINITY WAR is nearly spread too thin by its massive amount of plot and characters. It redeems itself by being full of surprises and foreboding; focusing on the heroes' relationships and real peril in fierce, unrestrained action.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Expectations surpassed. An ambitious, exhilarating and deeply satisfying culmination to a decade of great Marvel films. Thanos now reigns as the best villain of the MCU. Period. [Full review in Spanish]",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It somehow meets every single impossible expectation you have for it. To be fair, it's only because you're stupid.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Epic in scope and a stunning achievement in blockbuster cinema, Marvel's Avengers: Infinity War is a thrilling superhero extravaganza that will make you laugh, gasp and cry.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A celebration of mediocrity on a scale the cinema has never seen before. Avengers: Infinity War isn't a movie: it's advertising and brand management",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The stakes have never been higher with the release of Marvel Studios' Avengers: Infinity War.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "I'm breaking my rating scale for this one as this is the kind of crazy ambitious film that should be impossible to make this captivating, spectacular and memorable.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It is a bold undertaking, to readjust what is expected of the MCU/Avengers formula, and there are moments when the sheer scale and momentum match the narrative ambition",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Easily the best Marvel movie ever made, this is also shaping up to be one of the great blockbusters of the 21st-century.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Ten years of Marvel movies all culminate in Avengers: Infinity War. Was it worth the wait? Yes and no.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The exorbitant action scenes hit all the necessary crowd-pleasing buttons at regular intervals, but for a movie with infinite potential...it's possible to feel they banked on a rather narrow algorithm.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Be sure to stick around, empty popcorn bag in hand, for the post-credits scene, which left me wanting another sequel. Preferably tomorrow.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "For Marvel fans preparing to see the grim, thrilling \"Avengers: Infinity War\" for the first time, only one piece of advice will do: brace yourselves.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "#MINDBLOWN",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "You know all that Infinity War hype? It lives up to it. And then some.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Relentless, entertaining and more than a touch surprising, yet starved of substance and likely to leave many feeling shortchanged.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's crowded, busy and noisy--and if you're a Marvel fan, pretty close to heaven.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War does the impossible. It tops all previous 19 Marvel movies while continuing to redefine the action genre.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "For all the blockbuster spectacle on display, the film ends up in a place that's unexpectedly poetic and poignant, proving that even a movie of this size still has the ability to surprise - and more to the point: tell a good story.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "For those less schooled in all the backstories, Infinity War scatterguns enough laughs, thrilling digital effects and exhilarating chaos to compensate for any confusion.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "After 2.5 hours of watching superheroes battle dark forces, I'm exhausted. And elated.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Roaring through 160 minutes of action, humor, character development, epic evil and moving nobility, it is darker and edgier, yet lighter and more stirring than anything offered in another superhero franchise.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "There are some decent laughs before things turn serious, and the deft timing that has always been one of the sneakier pleasures of this multi-chapter behemoth is in evidence as heroes collide in attitude and physique.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War inherits plenty of the problems endemic to crossovers: the privileging of quantity over quality, of spectacle over story, and of the shock value of major changes to the status quo over just about everything else.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Equal parts exciting and exhausting, the film's resonant emotional crux and solid supervillain are unfortunately outweighed by an overwhelming amount of ambition and scope.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War is a dark and satisfying superhero flick, full of death, if you're into that sort of thing.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Hail, hail --- the gang's all here! \"Avengers: Infinity War\" is totally thrilling, hilarious and vastly entertaining!",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The reported budget of about $300 million should, in all likelihood, look like a bargain when the final returns are tallied.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The scope of the movie is massive. Yet, it feels intimate because, through the previous Marvel movies, we have become emotionally invested in many of these characters.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Infinity War certainly isn't totally perfect, but it's a damn fun time that rises to its challenge.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "\"Infinity War\" isn't concerned with endings, but as set-ups go, it's a humdinger, going apocalyptic while still retaining familiar beats of humor, heart, and body-smashing confrontations.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "In some sense, this is every Marvel movie combined. So if the first installment of the two-part culmination of all that effort seems a bit loaded, I'd say other critics need to put their nitpicky hats away. This is for the fans, and they have earned it.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The equivalent of a bad one-night stand with a very weak climax that you wish would've ended much, much sooner.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "But on the whole, Infinity War is what fans have been clamoring for - an action movie that puts everyone under one cinematic roof, that pits all of the good guys against the ultimate big bad for all of the marbles in the universe.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Over the last decade, the Marvel movies have shown us they can be more - weirder, funnier, more eccentric, even more politically loaded than simple adventure stories. This one feels like a step backward.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Expect to be mightily entertained by this offering that expertly mixes action and comedy before segueing into something that sort of reaches for Shakespearean levels. (Full Content Review for Parents - Violence, Profanity, etc. - also Available)",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The [Russo] brothers clearly know what clicks and to keep things moving.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "By the time Infinity War draws to its enigmatic whopper of a close, even viewers feeling burned out by the guys-in-long-underwear genre will find themselves eager for the sequel. Is it next summer yet?",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Yes, I want to see the next Marvel movie. But I long for popcorn movies like the last couple of Mission: Impossible installments, in which, after two-plus hours of ridiculously entertaining action, the mission actually is accomplished.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "This is a movie that needs the other 18 to exist before it. Otherwise, we'd know very little about these characters, their concerns, and why we should care for them.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "If Infinity War were the Second World War, I'd go all Churchill and declare that this is not even the beginning of the end. But it is definitely the end of the beginning.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "'Epic' doesn't even begin to describe this mind-exploding spectacle.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Infinity War is, in short, an astonishing and impossible achievement.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's the sense that everything has been building to this moment and now, as the fun truly begins, there's nothing left to do but sit back and revel in the spectacle of it all.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "There's a lot to meditate on in this breathlessly told comic book adventure film.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "A film that's overlong and overstuffed but somehow avoids being a chore to watch.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "There's a lot going on in Infinity War, including actual suffering, sacrifice and real emotions, most of which won't sink in until the end credits roll.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "...as much a fantastic amusement park ride as a cinematic experience, with an engaging cast doing an incredible job of not getting lost in the proceedings.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Intriguing, but virtually devoid of suspense. Funny, but pressing too hard for laughs. Monotonous, but not boring...Still, the ambitious Infinity War should be mandatory viewing for serious Marvel movie fans.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "There is whip-smart warfront humor to lighten the mood but, most importantly, in bleak times on and off the screen, they give us something vital: hope.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War's place in the Avengers saga is much like that of the middle chapters in the Lord of the Rings and Star Wars: It's chief purpose is to leave you hungry for next summer's finale. And that much, it does.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "After uneven start, \"Infinity War\" finishes with a bang.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Sitting through its 2 hours and 30 minutes is like gorging on tapas: You wind up both overstuffed and unsatisfied.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War delivers an exciting culmination of the MCU, though it's overstuffed and suffers from certain typical Marvel movie problems.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "[T]he most ambitious, most audacious, most mindblowing superhero film ever produced... THIS is why the superhero genre exists.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is a knockout sci-fi movie that travels around the universe and back, and not only does it capture the vastness of that but it's also perhaps the most beautiful, colorful film Marvel has released to date.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "In a cinematic world stuffed with big-budget movies, Infinity War is a genuine blockbuster.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A wildly ambitious and incredibly successful exercise in long-form cinematic storytelling.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Part of what makes Infinity War thrilling is the way it weaves its various narrative strands into a seamless whole-or, at least, as close to seamless as one might reasonably hope.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "After 10 years of lean, threadbare, Lilliputian tales, Marvel Studios has, thank heavens, finally decided to go big.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "The Russo brothers have clearly never learned the concept that less is more. They've used the premise of an Avengers reunion to put on a fireworks explosion of action and laughs (those roguish Guardians!) that won't quit.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Even by Marvel's own standards of serviceable mediocrity, Infinity War fails.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "\"Infinity War\" is big, blustery and brave, taking viewers to places that they may not be used to going.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Thanos as an overall villain is menacing, powerful and with a purpose. He believes his mission is the right mission, no matter how heinous it may be.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This is definitely a fun movie. But it doesn't make for a great movie.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "It's overlong, overcrowded and over here. But it gives everyone a go on the tricycle and propels each to dramatic (if not exactly fresh) catastrophes.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Infinity War is a wildly ambitious and entertaining ride in which good old fashioned team work just about carries the day.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Here, the special-ness comes from the pleasure of seeing all these larger-than-life personalities smashed together into one supersized adventure.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's not perfect, but it goes to a place most tentpole movies wouldn't dream of, while retaining the scale, excitement, and humour you've come to demand from an MCU movie.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "I fell short of loving this movie, but I liked it a lot...the humor to me was the highlight of the movie.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Marvel has solved their third-act problem and villain problem and then some. However prepared you feel, you are not ready for Thanos. But then, neither are our heroes.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The Russo brothers are the true superpower of the Marvel universe. [Full review in Spanish]",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Thanos packs a heck of a punch in \"Infinity War\" - he pretty much punches everyone. It's the emotion behind those punches that will surprise you.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Some characters were used well, others were in support, and then some were just there because the contract said so...there's a lot happening, a lot of jumping around...but a decade of set up for an epic buildup I personally loved.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War is going to please most people. It has some very shocking elements and a few disappointing elements...but this is a blast of a Marvel movie.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "[Spoiler-free review:] Marvel's superhero movies may not run the risk of being called 'elegant,' but they're sure as hell sturdy, well-built popcorn flicks that send audiences out unequivocally satisfied.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's true that darkness permeates Avengers: Infinity War, but it's also a masterfully crafted popcorn movie.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Avengers: Infinity War is epic in a way that has been often aspired to but never fully grasped when it comes to the translation from comic book panel to the Big Screen.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's the epitome of a summer blockbuster. The explosive action is practically nonstop, breaking only occasionally for jokes and a touch of romance - though without ever breaking its grim, apocalyptic tone.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "A glorious, shocking, edge-of-the-seat adventure that boasts one of Marvel's best-ever villains ... perfectly played by Brolin and mesmerising from the first frame until the last.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "There's just too much of it. A victim of its own success, there are just too many appealing characters here to stuff into one story.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "For critics who have spent much of the 21st century sniffing at the rise of the Marvel Comics Universe, it is probably time to admit that when the films are this good, they deserve every last beaming member of their audience.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War knows what it wants to be and goes about pursuing that goal with relentless intensity.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "What's on screen now, however, is table-setting for events to come, a groaning board of superheroes, a superabundance of undifferentiated superpowers, and an ending that's more exciting than anything that precedes it.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "The commotion of an ending will leave the public anxious for the next chapter, but Infinity War does tell a whole story by itself. [Full review in Spanish]",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War contains just about everybody...as if the sheer volume of Marvel characters would give the movie dramatic force. The opposite occurs.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Overstuffed but underwhelming, 'Infinity War' is burdened with too many characters, too many battles, and an ending that is meant to shock but is obviously a cheap trick.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "A film ten years in the making whose only obstacle is its own success.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Infinity War jumps from one incredible sequence to the next with dazzling ease and speed. Each leap brings a new level of entertainment and intensifies the emotional core of the story. [Full Review in Spanish]",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Love or loathe the genre, when I see a film this ambitious actually hitting its targets AND managing to stay human and accessible, I can't help but be extraordinarily impressed.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "It's not exactly a crowded mess, but a tricky ending to this mad, mad, mad universe -- complete with all the requisite players -- will keep 'em coming back for more.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The best Marvel film ever-the most complete, the most emotional, and the most thrilling.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Avengers: Infinity War changes everything... maybe.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Beyond the Earth's atmosphere, in places both old and new, we get to witness some of the most beautiful and awe inspiring images the directors (and the entire MCU) have delivered to date.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's intended to knock your socks off and, in the end, it finally attains a stirring, if slightly morose, grandeur.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The final moments of Infinity War are haunting and impactful and mysterious.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "...a business play forcing us to make yet another down payment on our collective Marvel mortgage.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Be prepared to sweat, cry, and clench your armrest because Avengers: Infinity War is one hell of a ride.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "If the Marvel Cinematic Universe aims to reshape popular entertainment, it needs to move beyond climax after climax with unremarkable, repetitive violence.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Watching Infinity War is like riding the most exhausting Six Flags roller coaster in existence three times consecutively",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "It's a little unwieldy, there are slow patches and the odd misstep, there are so many characters that your favourite might feel hard done by, and it is definitely Part 1... but the fact is that Infinity War is pretty damn thrilling.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The flavors of this multi-movie sundae blend beautifully.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "Marvel betrays the richness of its comic books in pursuit of the bedazzlement of the modern blockbuster movie; leaving us undernourished but entertained.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "If you've felt we're nearing superhero exhaustion, Marvel just went and changed the rules leaving you begging for more - proving yet again that they are the real masters of this game.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "Somehow nearly every story that's been started in this cinematic universe gets serviced. That's no small feat for a series that centers on more than a dozen different characters, and yet still manages to make every one of them count.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "This movie almost, but not quite seamlessly, brings together the disparate strands of a decade's worth of Marvel/Disney movies.",
+      "sentiment": "GOOD"
+    },
+    {
+      "reviewText": "This is Marvel doing the absolute best version of the formula it's been criticised for overusing. They've blown it right up and now need to throw out that formula for good.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "Stunning action sequences, especially the climactic battle that rivals the immense Battle of Helms Deep in The Lord Of The Rings: The Two Towers.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "The mood shifts from one-liners to kitchen sink drama to downright bleak throughout, without ever jarring greatly. Surprise is the Russo's main weapon here. We never know what's coming next.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "[Chris] Pratt jumps from blustery to goofy to vulnerable to insecure to funny with ease, as he trades barbs with Thor and his own sidekicks. Dude has charisma to spare.",
+      "sentiment": "BAD"
+    },
+    {
+      "reviewText": "\"Infinity War\" isn't just a proper sequel to that film; it's also the towering peak all these Marvel movies have been building to.",
+      "sentiment": "NEUTRAL"
+    },
+    {
+      "reviewText": "\"Avengers: Infinity War\" is a successful tuneup for a tumultuous, significant chapter in the continuing Marvel Cinematic Universe that will alter the trajectory of the franchise as it enters its second decade.",
+      "sentiment": "GOOD"
+    }
+  ]
+}
